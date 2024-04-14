@@ -7,3 +7,11 @@ This is real commercial data, it has been anonymised, and references to the comp
 
 ## Data Modeling
 The data model has been described in image below and it is organised and normalised for each category.
+
+## Main Goals:
+This project has several goals:
+1. Do Product Analysis
+2. Do Customer Analysis
+3. Report Cohort Analysis
+4. Predict Expected Customer Purchased (in next 3 months)
+5. Predict Which customers have recently purchased but are unlikely to buy
