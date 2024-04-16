@@ -15,7 +15,7 @@ Attention
 
 ## Data Modeling
 The data model has been described in image below and it is organised and normalised for each category.
-
+![Image Alt Text](images/databaseRelationship.png)
 ## Main Goals:
 This project has several goals:
 1. Do Product Analysis
