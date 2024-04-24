@@ -19,7 +19,14 @@ The data model has been described in image below and it is organised and normali
 ## Main Goals:
 This project has several goals:
 1. Do Product Analysis
-2. Do Customer Analysis
-3. Report Cohort Analysis
-4. Predict Expected Customer Purchased (in next 3 months)
-5. Predict Which customers have recently purchased but are unlikely to buy
+2. Report Cohort Analysis
+3. Predict potential customers
+
+## The Proposed Idea
+![Image Alt Text](images/solution-flow.png)
+
+Explanation:
+- According to the study conducted by Salesforce: The customers who are prompted with personalized product recommendations drive 24% of the orders and 26% of the revenue.
+- To reduce costs, we can focus on customers who provide positive sentiment and high valued groups.
+- From these product recommendations, we can create product packages, discounts, and other attractive offers.
+- Futhermore, we can use feedback from customers who provide negative sentiment and high valued groups to improve our service.
