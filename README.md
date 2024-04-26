@@ -22,6 +22,9 @@ This project has several goals:
 2. Report Cohort Analysis
 3. Predict potential customers
 
+## Dashboard
+To access the dashboard, please click [this](https://public.tableau.com/views/Olist-eCommerceBrasil-ProductAnalysis/ProductAnalysisReport?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 ## The Proposed Idea
 ![Image Alt Text](images/solution-flow.png)
 
